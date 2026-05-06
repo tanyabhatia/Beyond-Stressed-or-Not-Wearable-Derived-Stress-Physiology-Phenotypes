@@ -51,7 +51,7 @@ Computes daily sleep metrics, aggregates physiological features, and calculates 
 
 ### 3. Stress-Physiology Analysis
 ```bash
-python Step3.py
+Best run in Google Colab (step3.ipynb)
 ```
 Runs complete analysis pipeline: sleep phenotyping → physiological aggregation → stress-centered extraction → PCA+GMM clustering → validation → mixed-effects modeling.
 
